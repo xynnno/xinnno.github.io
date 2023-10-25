@@ -1,0 +1,9 @@
+/* object-fit{ */
+  responsive: true
+  property:object-fit contain
+    contain: contain,
+    cover: cover,
+    fill: fill,
+    scale: scale-down,
+    none: none,
+     }   
